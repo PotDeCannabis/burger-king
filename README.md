@@ -3,7 +3,7 @@
 #### This script need ESX Framework
 
 #### How to start this resource ?
-   - Add this line to server.cfg `ensure gendarmerie`
+   - Add this line to server.cfg `ensure burgerking`
 
 Preview: None
 
